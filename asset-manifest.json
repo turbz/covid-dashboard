@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/covid-dashboard/static/css/main.6a493674.chunk.css",
-    "main.js": "/covid-dashboard/static/js/main.d2ef0388.chunk.js",
-    "main.js.map": "/covid-dashboard/static/js/main.d2ef0388.chunk.js.map",
+    "main.css": "/covid-dashboard/static/css/main.c2ae714e.chunk.css",
+    "main.js": "/covid-dashboard/static/js/main.002e6bd1.chunk.js",
+    "main.js.map": "/covid-dashboard/static/js/main.002e6bd1.chunk.js.map",
     "runtime-main.js": "/covid-dashboard/static/js/runtime-main.60ead92d.js",
     "runtime-main.js.map": "/covid-dashboard/static/js/runtime-main.60ead92d.js.map",
-    "static/js/2.478795f4.chunk.js": "/covid-dashboard/static/js/2.478795f4.chunk.js",
-    "static/js/2.478795f4.chunk.js.map": "/covid-dashboard/static/js/2.478795f4.chunk.js.map",
+    "static/css/2.ab8a0683.chunk.css": "/covid-dashboard/static/css/2.ab8a0683.chunk.css",
+    "static/js/2.e1fdd59a.chunk.js": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js",
+    "static/js/2.e1fdd59a.chunk.js.map": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js.map",
     "index.html": "/covid-dashboard/index.html",
-    "precache-manifest.96b0d08335c042d9d5f7a2ab3e9f00de.js": "/covid-dashboard/precache-manifest.96b0d08335c042d9d5f7a2ab3e9f00de.js",
+    "precache-manifest.de135eea49e0aaaf1a1036e2f2af761e.js": "/covid-dashboard/precache-manifest.de135eea49e0aaaf1a1036e2f2af761e.js",
     "service-worker.js": "/covid-dashboard/service-worker.js",
-    "static/css/main.6a493674.chunk.css.map": "/covid-dashboard/static/css/main.6a493674.chunk.css.map",
-    "static/js/2.478795f4.chunk.js.LICENSE.txt": "/covid-dashboard/static/js/2.478795f4.chunk.js.LICENSE.txt",
+    "static/css/2.ab8a0683.chunk.css.map": "/covid-dashboard/static/css/2.ab8a0683.chunk.css.map",
+    "static/css/main.c2ae714e.chunk.css.map": "/covid-dashboard/static/css/main.c2ae714e.chunk.css.map",
+    "static/js/2.e1fdd59a.chunk.js.LICENSE.txt": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js.LICENSE.txt",
     "static/media/ambulance.svg": "/covid-dashboard/static/media/ambulance.2984fce6.svg",
     "static/media/doctor.svg": "/covid-dashboard/static/media/doctor.e785e63a.svg",
     "static/media/healthcare-and-medical.svg": "/covid-dashboard/static/media/healthcare-and-medical.1edafbf4.svg",
@@ -20,8 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.60ead92d.js",
-    "static/js/2.478795f4.chunk.js",
-    "static/css/main.6a493674.chunk.css",
-    "static/js/main.d2ef0388.chunk.js"
+    "static/css/2.ab8a0683.chunk.css",
+    "static/js/2.e1fdd59a.chunk.js",
+    "static/css/main.c2ae714e.chunk.css",
+    "static/js/main.002e6bd1.chunk.js"
   ]
 }
