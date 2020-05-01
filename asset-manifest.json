@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/covid-dashboard/static/css/main.8d9d7955.chunk.css",
-    "main.js": "/covid-dashboard/static/js/main.b23e3739.chunk.js",
-    "main.js.map": "/covid-dashboard/static/js/main.b23e3739.chunk.js.map",
+    "main.css": "/covid-dashboard/static/css/main.b0609640.chunk.css",
+    "main.js": "/covid-dashboard/static/js/main.a8362923.chunk.js",
+    "main.js.map": "/covid-dashboard/static/js/main.a8362923.chunk.js.map",
     "runtime-main.js": "/covid-dashboard/static/js/runtime-main.60ead92d.js",
     "runtime-main.js.map": "/covid-dashboard/static/js/runtime-main.60ead92d.js.map",
     "static/css/2.ab8a0683.chunk.css": "/covid-dashboard/static/css/2.ab8a0683.chunk.css",
-    "static/js/2.59e70620.chunk.js": "/covid-dashboard/static/js/2.59e70620.chunk.js",
-    "static/js/2.59e70620.chunk.js.map": "/covid-dashboard/static/js/2.59e70620.chunk.js.map",
+    "static/js/2.e1fdd59a.chunk.js": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js",
+    "static/js/2.e1fdd59a.chunk.js.map": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js.map",
     "index.html": "/covid-dashboard/index.html",
-    "precache-manifest.49132dca4cec01d551322b533819a351.js": "/covid-dashboard/precache-manifest.49132dca4cec01d551322b533819a351.js",
+    "precache-manifest.7a3ef9872a102ea3f547e534d364c8a1.js": "/covid-dashboard/precache-manifest.7a3ef9872a102ea3f547e534d364c8a1.js",
     "service-worker.js": "/covid-dashboard/service-worker.js",
     "static/css/2.ab8a0683.chunk.css.map": "/covid-dashboard/static/css/2.ab8a0683.chunk.css.map",
-    "static/css/main.8d9d7955.chunk.css.map": "/covid-dashboard/static/css/main.8d9d7955.chunk.css.map",
-    "static/js/2.59e70620.chunk.js.LICENSE.txt": "/covid-dashboard/static/js/2.59e70620.chunk.js.LICENSE.txt",
-    "static/media/down-arrow.svg": "/covid-dashboard/static/media/down-arrow.a39be97c.svg",
-    "static/media/graph.svg": "/covid-dashboard/static/media/graph.72aa0b5e.svg",
-    "static/media/southafrica.png": "/covid-dashboard/static/media/southafrica.52c2f26e.png",
-    "static/media/up-arrow.svg": "/covid-dashboard/static/media/up-arrow.b8f1b1dc.svg",
-    "static/media/world-map.svg": "/covid-dashboard/static/media/world-map.9d33950f.svg"
+    "static/css/main.b0609640.chunk.css.map": "/covid-dashboard/static/css/main.b0609640.chunk.css.map",
+    "static/js/2.e1fdd59a.chunk.js.LICENSE.txt": "/covid-dashboard/static/js/2.e1fdd59a.chunk.js.LICENSE.txt",
+    "static/media/ambulance.svg": "/covid-dashboard/static/media/ambulance.2984fce6.svg",
+    "static/media/doctor.svg": "/covid-dashboard/static/media/doctor.e785e63a.svg",
+    "static/media/healthcare-and-medical.svg": "/covid-dashboard/static/media/healthcare-and-medical.1edafbf4.svg",
+    "static/media/heart-beat.svg": "/covid-dashboard/static/media/heart-beat.83af99e5.svg",
+    "static/media/shield.svg": "/covid-dashboard/static/media/shield.0d004de3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.60ead92d.js",
     "static/css/2.ab8a0683.chunk.css",
-    "static/js/2.59e70620.chunk.js",
-    "static/css/main.8d9d7955.chunk.css",
-    "static/js/main.b23e3739.chunk.js"
+    "static/js/2.e1fdd59a.chunk.js",
+    "static/css/main.b0609640.chunk.css",
+    "static/js/main.a8362923.chunk.js"
   ]
 }
